@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<script src="https://tryhackme.com/badge/572846"></script>
-
+[!["https://tryhackme-badges.s3.amazonaws.com/DaN.Lund.png" alt="TryHackMe"]]
 <!--
 **DanielLund/DanielLund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
