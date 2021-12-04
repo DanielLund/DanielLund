@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-##Software Engineer & ML Engineer
+## Software Engineer & ML Engineer
+
+## Hobbyist Hacker
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/DaN.Lund.png)
 <!--
