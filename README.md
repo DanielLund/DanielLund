@@ -4,7 +4,7 @@
 - 🧑🏼‍🎓 Student at AiCore
 - 🌱 Currently learning: NLP, CV, Deep Learning, Mathematics for Machine Learning
 - 👨🏼‍🔬 Looking to collaborate/join kaggle teams
-
+- Pronouns: He/Him
 ## Hobbyist Hacker
 - Avid TryHackMe user
 - CTF Participant
