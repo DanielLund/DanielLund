@@ -12,7 +12,7 @@
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/DaN.Lund.png)
 
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   dan@theaicore.com
+<img align="left" width="100" height="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> dan@theaicore.com
 ---
 ![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLund&layout=compact&hide=html&theme=midnight-purple)
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLund&show_icons=true&count_private=true&theme=midnight-purple)
