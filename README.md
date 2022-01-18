@@ -12,8 +12,10 @@
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/DaN.Lund.png)
 
+<script src="https://tryhackme.com/badge/572846"></script>
+
 ---
-![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLund&hide=html&theme=midnight-purple)
+![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLund&layout=compact&hide=html&theme=midnight-purple)
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLund&show_icons=true&count_private=true&theme=midnight-purple)
 <!--
 **DanielLund/DanielLund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
