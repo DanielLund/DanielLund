@@ -21,7 +21,7 @@
   <img src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" alt="go" width="60" height="60"/><img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" width="60" height="60"/>   <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="pytorch" width="100" height="100"/></p>
   
 <p align="center">
-<a href="https://www.linkedin.com/in/daniel-lund-311551149/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chithakumar13" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/daniel-lund-311551149/" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="linkedin" height="60" width="60" /></a>
 <!--
 **DanielLund/DanielLund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
