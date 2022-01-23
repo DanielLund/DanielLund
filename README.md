@@ -13,7 +13,7 @@
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/DaN.Lund.png)
 
 <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> dan@theaicore.com
-<a align="left" href="https://www.linkedin.com/in/daniel-lund-311551149/"><img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="linkedin" width="60" height="60"/></a>
+<a align="left" href="https://www.linkedin.com/in/daniel-lund-311551149/"><img align="left" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="linkedin" width="60" height="60"/></a>
 ---
 ![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLund&layout=compact&hide=html&theme=midnight-purple)
 ![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLund&show_icons=true&count_private=true&theme=midnight-purple)
