@@ -1,27 +1,17 @@
-# Hi there 👋
+# Hey I'm Dan!
 
-## Software Engineer & ML Engineer
-- 🧑🏼‍🎓 Student at AiCore
-- 🌱 Currently learning: NLP, CV, Deep Learning, Mathematics for Machine Learning
-- 👨🏼‍🔬 Looking to collaborate/join kaggle teams
+## DevOps Engineer
+- Focussing on infrastructure and cloud automation on AWS!
+- Main technologies include: AWS Cloudformation, AWS EC2, Python, Docker, Kubernetes, Terraform, Bash
 - Pronouns: He/Him
-## Hobbyist Hacker
-- Avid TryHackMe user
-- CTF Participant
-- Message me if you want to collab on CTF's!
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/DaN.Lund.png)
+[![Linkedin: Daniel Lund](https://img.shields.io/badge/-DanielLund-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-lund-311551149/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/daniel-lund-311551149/))
+[![GitHub Daniel Lund](https://img.shields.io/github/followers/DanielLund?label=follow&style=social)](https://github.com/DanielLund)
 
-<img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> dan@theaicore.com
 ---
-![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLund&layout=compact&hide=html&theme=midnight-purple)
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLund&show_icons=true&count_private=true&theme=midnight-purple)
+![Dan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLund&layout=compact&hide=html&theme=onedark)
+![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLund&show_icons=true&count_private=true&theme=onedark)
 
-<p align="center"><img  src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" alt="aws" width="60" height="60"/><img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" alt="docker" width="60" height="60"/> <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="60" height="60"/>
-  <img src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" alt="go" width="60" height="60"/><img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" width="60" height="60"/>   <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="pytorch" width="100" height="100"/></p>
-  
-<p align="center">
-<a href="https://www.linkedin.com/in/daniel-lund-311551149/" target="blank"><img align="center" src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" alt="linkedin" height="60" width="60" /></a>
 <!--
 **DanielLund/DanielLund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
