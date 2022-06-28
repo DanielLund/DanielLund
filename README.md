@@ -1,7 +1,7 @@
 # Hey I'm Dan!
 
 ## DevOps Engineer
-- Focussing on infrastructure and cloud automation on AWS!
+- Focusing on infrastructure and cloud automation on AWS!
 - Main technologies include: AWS Cloudformation, AWS EC2, Python, Docker, Kubernetes, Terraform, Bash
 - Pronouns: He/Him
 
